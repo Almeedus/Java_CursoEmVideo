@@ -1,0 +1,8 @@
+O código fonte.java vai ser compilado pelo 'javac' em Bytecode e ser enviado pelo JVM (Java Virtual Machine) que será 
+o interpretador para o computador.
+
+WORA - Write Once Read Anywhere (Escreva uma vez leia em qualquer lugar)
+
+JVM (Java Virtual Machine)
+JRE (Java Runtime Environment) - ambiente de execução
+JDK (Java Developer Kit) - ambiente para desenvolvimento

@@ -1,0 +1,32 @@
+1- Em relação à linguagem de programação Java, complete corretamente as lacunas das sentenças abaixo, e 
+assinale a opção correta.
+
+1- comando ______ do J2SE DK executa um aplicativo Java.
+2- comando ______ do J2SE DK compila um programa Java.
+3- um arquivo de programa Java deve terminar com a extensão de arquivo __________.
+4- Quando um programa Java é compilado, o arquivo produzido pelo compilador produxido pelo compilador termina
+com a extensão dee arquivo ________.
+5- O arquivo produzido pelo compilador Java contém _______ que são executados pela JVM.
+
+R: Java/ Javac/ Java/ Class/ Bytecode
+
+2- Verdadeiro (V) e Falso (F)
+
+1- A area de memória requerida para operar com o programa compilado é menor que a requerida para a interação.
+2- Um programa interpretador requer uma área de memória menor do que a do programa compilado
+3- O tempo para a execução interpretada é maior do que o tempo para execução compilada
+4- Um programa compilado requer um tempo de execução maior do que um programa interpretado
+
+R: F-V-V-F
+
+3- Represente a multiplicação da area = base vezes a altura dividido por dois
+
+R: area <- (base*altura)/2 
+
+4- A formula para calcular a media aritmética de quatro notas:
+
+R: (n1+n2+n3+n4)/4
+
+5- Informe se é falso ou verdadeiro o diagrama da aula 2, 8:50:
+
+R: V-F-V-F
