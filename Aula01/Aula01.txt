@@ -1,0 +1,2 @@
+Aula onde foi apresentado a História do Java, algumas curiosidades das linguagens antigas e modernas.
+Além de uma breve introdução as revoluções tecnologicas (como os computadores eram feitos).

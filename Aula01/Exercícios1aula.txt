@@ -1,0 +1,21 @@
+Questões que caem no CAPpd e no EAGSsin (Provas da aeronaltica e da marinha)
+
+1- Qual é a descrição correta de algoritmo?
+	Algoritmo é uma descrição das etapas de  resolução de um problema ou a indicação de uma sequencia
+de ações bem-definidas.
+
+2- Qual linguagem não é uma linguagem de programação:
+	A) Delphi /B) De Máquina /C) Assembly/ *D) Windows XP* / E) Visual Basic
+
+3- Qual é o utilitario responsável por gerar, a partir de um programa escrito em uma linguagem de alto nível,
+um programa em linguagem de máquina não executável chamado de módulo-objeto?
+	Compilador
+
+4- A expressão Z = X % Y corresponde a Z igual:
+	O resto da dívisão de X por Y
+
+5- Fluxograma é um tipo de:
+	Representação gráfica de algoritmos
+
+6- O simbolo utilizado em fluxogramas de sistemas de processamento de dados para indicar saídas impressas
+como, por exemplo, a emissao de um ou vários relatóorios é letra C (que parece um papel)
